@@ -1,0 +1,4 @@
+requests
+pandas
+black
+ruff
